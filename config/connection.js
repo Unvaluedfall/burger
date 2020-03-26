@@ -2,7 +2,7 @@
 const mysql = require("mysql");
 
 const connection = mysql.createConnection({
-  host: "localhost",
+  host: "pure-lake-56171.herokuapp.com",
   port: 3306,
   user: "root",
   password: "Supertomy11",
